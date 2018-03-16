@@ -1,0 +1,5 @@
+virtualenv
+_pycache_
+*.pyc
+*.swp
+*.idea
