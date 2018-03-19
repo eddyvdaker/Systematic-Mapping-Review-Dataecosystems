@@ -26,11 +26,13 @@ def get_authors(parser):
 
 def get_publish_date(parser):
     publish_date = parser.find('dt')
-    return f'{publish_date["year"]}-{publish_date["month"]}-{publish_date["day"]}'
+    return f'{publish_date["year"]}-{publish_date["month"]}-' \
+           f'{publish_date["day"]}'
 
 
 test_files = ['./results/single-result.xml', './results/single-result.xml']
-result_files = ['./results/q1-results.xml', './results/q2-results.xml', './results/q3-results.xml']
+result_files = ['./results/q1-results.xml', './results/q2-results.xml',
+                './results/q3-results.xml']
 files = result_files
 
 print('Reading original files...')

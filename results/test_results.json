@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "abstract": "Open data provide many opportunities for businesses, such as the development of new products and services. A significant challenge for businesses and governments is the collaboration among actors who provide data, actors who consume data and actors who create new services and applications around the data. These actors synthesize a collaborative environment-called ecosystem. Open data ecosystems face many obstacles and researchers have focused their interest in establishing and validating them. The existing knowledge about the open data ecosystem from the business perspective is limited. The purpose of this study is to examine the actors of open data ecosystem and their relationships, their motivations in order to increase entrepreneurial activities as well as the business model elements which are required in open data based business. 6 interviews were carried out with actors from open data ecosystem so as to receive up-to-date information directly from actors and estimated how the current ecosystem enables new business opportunities for actors providing data and for actors utilizing data. The analysis of findings is based on the Business Model Canvas and results are presented according to the perspective of each actor of the ecosystem. Findings show that although actors are highly interested in using open data, there is a need for a new kind of business ecosystem that makes a win-win condition possible for all the actors in the open data ecosystem. The interviews disclosed many motives and benefits of the open data ecosystem. Nevertheless, there are also barriers that should be carefully examined and resolved.",
+      "authors": "Kitsios, Fotis; Papachristos, Nikolaos; Kamariotou, Maria",
+      "database": "IEEE Xplore Digital Library",
+      "journal": "2017 IEEE 19th Conference on Business Informatics (CBI), Business Informatics (CBI), 2017 IEEE 19th Conference on, CBI",
+      "language": "",
+      "publication_type": "Conference Paper",
+      "publish_date": "2017-07-01",
+      "title": "Business Models for Open Data Ecosystem: Challenges and Motivations for Entrepreneurship and Innovation",
+      "url": "http://zuyd.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edseee&amp;AN=edseee.8010744&amp;amp;lang=nl&amp;site=eds-live"
+    },
+    {
+      "abstract": "With the increasing permeation of data into all dimensions of our information society, data is progressively becoming the basis for many products and services. It is hence becoming more and more vital to identify the means and methods how to exploit the value of this data. In this paper we provide our definition of the Data Value Network, where we specifically cater for non-tangible data products. We also propose a Demand and Supply Distribution Model with the aim of providing insight on how an entity can participate in the global data market by producing a data product, as well as a concrete implementation through the Demand and Supply as a Service. Through our contributions we project our vision of generating a new Economic Data Ecosystem that has the Web of Data as its core.",
+      "authors": "Attard, Judie; Orlandi, Fabrizio; Auer, Soren",
+      "database": "IEEE Xplore Digital Library",
+      "journal": "2016 IEEE/WIC/ACM International Conference on Web Intelligence (WI), Web Intelligence (WI), 2016 IEEE/WIC/ACM International Conference on, WI",
+      "language": "",
+      "publication_type": "Conference Paper",
+      "publish_date": "2016-10-01",
+      "title": "Data Value Networks: Enabling a New Data Ecosystem",
+      "url": "http://zuyd.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edseee&amp;AN=edseee.7817090&amp;amp;lang=nl&amp;site=eds-live"
+    },
+    {
+      "abstract": "Wearable medical devices with sensor continuously generate enormous data which is often called as big data mixed with structured and unstructured data. Due to the complexity of the data, it is difficult to process and analyze the big data for finding valuable information that can be useful in decision-making. On the other hand, data security is a key requirement in healthcare big data system. In order to overcome this issue, this paper proposes a new architecture for the implementation of IoT to store and process scalable sensor data (big data) for health care applications. The Proposed architecture consists of two main sub architectures, namely, Meta Fog-Redirection (MF-R) and Grouping and Choosing (GC) architecture. MF-R architecture uses big data technologies such as Apache Pig and Apache HBase for collection and storage of the sensor data (big data) generated from different sensor devices. The proposed GC architecture is used for securing integration of fog computing with cloud computing. This architecture also uses key management service and data categorization function (Sensitive, Critical and Normal) for providing security services. The framework also uses MapReduce based prediction model to predict the heart diseases. Performance evaluation parameters such as throughput, sensitivity, accuracy, and f-measure are calculated to prove the efficiency of the proposed architecture as well as the prediction model.",
+      "authors": "Manogaran, Gunasekaran; Varatharajan, R.; Lopez, Daphne; Kumar, Priyan Malarvizhi; Sundarasekar, Revathi; Thota, Chandu",
+      "database": "ScienceDirect",
+      "journal": "Future Generation Computer Systems",
+      "language": "English",
+      "publication_type": "Academic Journal",
+      "publish_date": "2018-05-01",
+      "title": "A new architecture of Internet of Things and big data ecosystem for secured smart healthcare monitoring and alerting system",
+      "url": "http://zuyd.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S0167739X17305149&amp;amp;lang=nl&amp;site=eds-live"
+    },
+    {
+      "abstract": "Open data provide many opportunities for businesses, such as the development of new products and services. A significant challenge for businesses and governments is the collaboration among actors who provide data, actors who consume data and actors who create new services and applications around the data. These actors synthesize a collaborative environment-called ecosystem. Open data ecosystems face many obstacles and researchers have focused their interest in establishing and validating them. The existing knowledge about the open data ecosystem from the business perspective is limited. The purpose of this study is to examine the actors of open data ecosystem and their relationships, their motivations in order to increase entrepreneurial activities as well as the business model elements which are required in open data based business. 6 interviews were carried out with actors from open data ecosystem so as to receive up-to-date information directly from actors and estimated how the current ecosystem enables new business opportunities for actors providing data and for actors utilizing data. The analysis of findings is based on the Business Model Canvas and results are presented according to the perspective of each actor of the ecosystem. Findings show that although actors are highly interested in using open data, there is a need for a new kind of business ecosystem that makes a win-win condition possible for all the actors in the open data ecosystem. The interviews disclosed many motives and benefits of the open data ecosystem. Nevertheless, there are also barriers that should be carefully examined and resolved.",
+      "authors": "Kitsios, Fotis; Papachristos, Nikolaos; Kamariotou, Maria",
+      "database": "IEEE Xplore Digital Library",
+      "journal": "2017 IEEE 19th Conference on Business Informatics (CBI), Business Informatics (CBI), 2017 IEEE 19th Conference on, CBI",
+      "language": "",
+      "publication_type": "Conference Paper",
+      "publish_date": "2017-07-01",
+      "title": "Business Models for Open Data Ecosystem: Challenges and Motivations for Entrepreneurship and Innovation",
+      "url": "http://zuyd.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edseee&amp;AN=edseee.8010744&amp;amp;lang=nl&amp;site=eds-live"
+    }
+  ]
+}
