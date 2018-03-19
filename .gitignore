@@ -3,4 +3,4 @@ _pycache_
 *.pyc
 *.swp
 *.idea
-*.json
+results
