@@ -3,7 +3,7 @@ A script that checks the output json file and removes duplicates
 """
 import json
 
-file = './results/results.json'
+file = './results/test_results.json'
 
 print('reading json from file...')
 results = json.load(open(file))['results']
@@ -19,7 +19,7 @@ for i, result in enumerate(results):
     print(f'{i + 1} results checked...')
 
 print('writing new results to file...')
-with open('./results/results_2.json', 'w') as output:
+with open('./results/test_results_2.json', 'w') as output:
     json.dump({'results': new_results}, output, sort_keys=True, indent=4)
 
 print('done...')
