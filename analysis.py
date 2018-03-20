@@ -10,6 +10,8 @@ data = json.load(open(data_file))['results']
 categories_file = './categories.json'
 categories = json.load(open(categories_file))['categories']
 
+summary_file = './results/summary.json'
+
 # Count the number of results for each of the categories
 occurrences_per_category = {}
 for category in categories:
@@ -53,3 +55,12 @@ for result in data:
     search_terms['data ecosystem'] += count_data_ecosystem \
                                       - count_big_data_ecosystem \
                                       - count_open_data_ecosystem
+
+with open(summary_file, 'w') as output:
+    results = {}
+    results.update({'occurrences per category': occurrences_per_category})
+    results.update({'systematic reviews': systematic_reviews})
+    results.update({'result types': result_types})
+    results.update({'search terms': search_terms})
+
+    json.dump(results, output, sort_keys=True, indent=4)
